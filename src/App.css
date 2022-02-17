@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.Chat ul {
+  display: flex;
+  flex-direction: column;
+  background-color: aliceblue;
+  color: black;
+  min-height: 50px;
+  text-align: left;
+}
+
+.Chat ul li {
+  list-style-type: none;
+}
+
