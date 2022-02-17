@@ -1,0 +1,27 @@
+.FormChat {
+    display: flex;
+}
+
+.MainInput {
+    height: 50px;
+    width: 800px;
+    font-size: 23px;
+}
+
+.FormChat input {
+    font-size: 23px;
+    height: 50px;
+}
+
+.FormChat button {
+    font-size: 23px;
+}
+
+li {
+    font-size: 20px;
+}
+
+span {
+    font-size: 22px;
+    font-weight: bolder;
+}
